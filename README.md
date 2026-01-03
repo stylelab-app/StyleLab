@@ -1,2 +1,2 @@
 # StyleLab
-Plate-forme thèmes mobiles IA
+Plate-forme thèmes mobiles
